@@ -1,0 +1,16 @@
+{
+  "name": "selenium-chai-demo",
+  "version": "1.0.0",
+  "description": "An example project for javascript-stack UATs and assertions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "selenium-webdriver": "^2.53.1"
+  }
+}
